@@ -28,7 +28,7 @@ Este é um aplicativo de lista de tarefas desenvolvido com **React Native**, uti
 
 Veja como adicionar, excluir e visualizar tarefas usando o app.
 
-https://github.com/lslucassz/To-Do-List/assets/lslucassz/WhatsApp%20Video%202025-07-25%20at%2019.52.15.mp4
+https://github.com/user-attachments/assets/a2f5664b-688a-4b4e-974a-a0910cd0a75b
 
 📌 Observações
 O app funciona completamente offline graças ao uso do SQLite.
